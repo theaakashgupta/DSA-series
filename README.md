@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/codewithskyies/DSA-series/tree/master/0646-maximum-length-of-pair-chain) |
 | [0713-subarray-product-less-than-k](https://github.com/codewithskyies/DSA-series/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/codewithskyies/DSA-series/tree/master/0739-daily-temperatures) |
+| [0904-fruit-into-baskets](https://github.com/codewithskyies/DSA-series/tree/master/0904-fruit-into-baskets) |
 | [0946-validate-stack-sequences](https://github.com/codewithskyies/DSA-series/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/codewithskyies/DSA-series/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/codewithskyies/DSA-series/tree/master/1048-longest-string-chain) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/codewithskyies/DSA-series/tree/master/0202-happy-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codewithskyies/DSA-series/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/codewithskyies/DSA-series/tree/master/0491-non-decreasing-subsequences) |
+| [0904-fruit-into-baskets](https://github.com/codewithskyies/DSA-series/tree/master/0904-fruit-into-baskets) |
 | [1048-longest-string-chain](https://github.com/codewithskyies/DSA-series/tree/master/1048-longest-string-chain) |
 ## Enumeration
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/codewithskyies/DSA-series/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codewithskyies/DSA-series/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/codewithskyies/DSA-series/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/codewithskyies/DSA-series/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
