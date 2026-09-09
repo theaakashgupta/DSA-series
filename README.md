@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/codewithskyies/DSA-series/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/codewithskyies/DSA-series/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/codewithskyies/DSA-series/tree/master/0403-frog-jump) |
+| [0485-max-consecutive-ones](https://github.com/codewithskyies/DSA-series/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/codewithskyies/DSA-series/tree/master/0491-non-decreasing-subsequences) |
 | [0646-maximum-length-of-pair-chain](https://github.com/codewithskyies/DSA-series/tree/master/0646-maximum-length-of-pair-chain) |
 | [0713-subarray-product-less-than-k](https://github.com/codewithskyies/DSA-series/tree/master/0713-subarray-product-less-than-k) |
