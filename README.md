@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/codewithskyies/DSA-series/tree/master/0491-non-decreasing-subsequences) |
 | [0646-maximum-length-of-pair-chain](https://github.com/codewithskyies/DSA-series/tree/master/0646-maximum-length-of-pair-chain) |
 | [0713-subarray-product-less-than-k](https://github.com/codewithskyies/DSA-series/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/codewithskyies/DSA-series/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/codewithskyies/DSA-series/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/codewithskyies/DSA-series/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/codewithskyies/DSA-series/tree/master/0930-binary-subarrays-with-sum) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/codewithskyies/DSA-series/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/codewithskyies/DSA-series/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/codewithskyies/DSA-series/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/codewithskyies/DSA-series/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/codewithskyies/DSA-series/tree/master/1248-count-number-of-nice-subarrays) |
 ## Quicksort
