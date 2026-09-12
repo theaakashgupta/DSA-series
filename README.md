@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/codewithskyies/DSA-series/tree/master/0403-frog-jump) |
 | [0485-max-consecutive-ones](https://github.com/codewithskyies/DSA-series/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/codewithskyies/DSA-series/tree/master/0491-non-decreasing-subsequences) |
+| [0560-subarray-sum-equals-k](https://github.com/codewithskyies/DSA-series/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/codewithskyies/DSA-series/tree/master/0646-maximum-length-of-pair-chain) |
 | [0713-subarray-product-less-than-k](https://github.com/codewithskyies/DSA-series/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/codewithskyies/DSA-series/tree/master/0724-find-pivot-index) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/codewithskyies/DSA-series/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codewithskyies/DSA-series/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/codewithskyies/DSA-series/tree/master/0491-non-decreasing-subsequences) |
+| [0560-subarray-sum-equals-k](https://github.com/codewithskyies/DSA-series/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/codewithskyies/DSA-series/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/codewithskyies/DSA-series/tree/master/0930-binary-subarrays-with-sum) |
 | [1048-longest-string-chain](https://github.com/codewithskyies/DSA-series/tree/master/1048-longest-string-chain) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/codewithskyies/DSA-series/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/codewithskyies/DSA-series/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/codewithskyies/DSA-series/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/codewithskyies/DSA-series/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/codewithskyies/DSA-series/tree/master/0930-binary-subarrays-with-sum) |
