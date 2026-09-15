@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/codewithskyies/DSA-series/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/codewithskyies/DSA-series/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/codewithskyies/DSA-series/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/codewithskyies/DSA-series/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/codewithskyies/DSA-series/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codewithskyies/DSA-series/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/codewithskyies/DSA-series/tree/master/0491-non-decreasing-subsequences) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/codewithskyies/DSA-series/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/codewithskyies/DSA-series/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/codewithskyies/DSA-series/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/codewithskyies/DSA-series/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/codewithskyies/DSA-series/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codewithskyies/DSA-series/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/codewithskyies/DSA-series/tree/master/0844-backspace-string-compare) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/codewithskyies/DSA-series/tree/master/0409-longest-palindrome) |
 | [0646-maximum-length-of-pair-chain](https://github.com/codewithskyies/DSA-series/tree/master/0646-maximum-length-of-pair-chain) |
 ## Sorting
 |  |
