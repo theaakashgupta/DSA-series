@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/codewithskyies/DSA-series/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/codewithskyies/DSA-series/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/codewithskyies/DSA-series/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/codewithskyies/DSA-series/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/codewithskyies/DSA-series/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/codewithskyies/DSA-series/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/codewithskyies/DSA-series/tree/master/0287-find-the-duplicate-number) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/codewithskyies/DSA-series/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/codewithskyies/DSA-series/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/codewithskyies/DSA-series/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/codewithskyies/DSA-series/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/codewithskyies/DSA-series/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/codewithskyies/DSA-series/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/codewithskyies/DSA-series/tree/master/0409-longest-palindrome) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/codewithskyies/DSA-series/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/codewithskyies/DSA-series/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/codewithskyies/DSA-series/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/codewithskyies/DSA-series/tree/master/0169-majority-element) |
 | [0646-maximum-length-of-pair-chain](https://github.com/codewithskyies/DSA-series/tree/master/0646-maximum-length-of-pair-chain) |
 | [0977-squares-of-a-sorted-array](https://github.com/codewithskyies/DSA-series/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/codewithskyies/DSA-series/tree/master/1048-longest-string-chain) |
@@ -271,5 +274,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/codewithskyies/DSA-series/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/codewithskyies/DSA-series/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/codewithskyies/DSA-series/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/codewithskyies/DSA-series/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
