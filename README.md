@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/codewithskyies/DSA-series/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/codewithskyies/DSA-series/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/codewithskyies/DSA-series/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/codewithskyies/DSA-series/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/codewithskyies/DSA-series/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/codewithskyies/DSA-series/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/codewithskyies/DSA-series/tree/master/0198-house-robber) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codewithskyies/DSA-series/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/codewithskyies/DSA-series/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/codewithskyies/DSA-series/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/codewithskyies/DSA-series/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/codewithskyies/DSA-series/tree/master/0278-first-bad-version) |
