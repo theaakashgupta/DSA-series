@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/codewithskyies/DSA-series/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/codewithskyies/DSA-series/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/codewithskyies/DSA-series/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/codewithskyies/DSA-series/tree/master/0232-implement-queue-using-stacks) |
@@ -290,4 +291,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/codewithskyies/DSA-series/tree/master/0169-majority-element) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/codewithskyies/DSA-series/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/codewithskyies/DSA-series/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/codewithskyies/DSA-series/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
