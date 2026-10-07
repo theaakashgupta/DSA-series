@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/string-to-integer-atoi">8. String to Integer (atoi)</a></h2><h3>Medium</h3><hr><p>Implement the <code>myAtoi(string s)</code> function, which converts a.</p>
+<h2><a href="https://leetcode.com/problems/string-to-integer-atoi">8. String to Integer (atoi)</a></h2><h3>Medium</h3><hr><p>Implement the <code>myAtoi(string s)</codunction, which converts a.</p>
 
 <p>The algorithm for <code>myAtoi(string s)</code> is as follows:</p>
 
