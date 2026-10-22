@@ -7,7 +7,7 @@ Y   I   R
 </pre>
 
 <p>And then read line by line: <code>&quot;PAHNAPLSIIGYIR&quot;</code>
-<p>Write the code that will take a string and make this conversion given a number of rows:</p>
+<p>Write the code that will take a string and make this conversion a number of rows:</p>
 
 <pre>
 string convert(string s, int numRows);
