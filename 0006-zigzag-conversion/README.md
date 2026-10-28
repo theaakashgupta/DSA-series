@@ -17,7 +17,10 @@ string convert(string s, int numRows);
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> s = &quot;PAYPALISHIRING&quot;, numRows = 3
+<strong>Input:</strong> s = &quot;PAYPALISHI
+	
+	
+	devl,vdING&quot;, numRows = 3
 <strong>Output:</strong> &quot;PAHNAPLSIIGYIR&quot;
 </pre>
 
