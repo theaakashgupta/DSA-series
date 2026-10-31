@@ -2,7 +2,7 @@
 
 <p>Each number in <code>candidates</code>&nbsp;may only be used <strong>once</strong> in the combination.</p>
 
-<p><strong>Note:</strong>&nbsp;The solution set must not contain duplicate combinations.</p>
+<p><strong>Note:</strong>&nbsp;The solution set must not contain duplicate combinatio
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
