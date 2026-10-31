@@ -14,7 +14,7 @@
 
 <p><strong>Explanation:</strong></p>
 
-<p>The array has two 0s, two 1s, and two 2s. Sorting them in-place places all 0s first, then all 1s, then all 2s.</p>
+<p>The array has two 0s, two 1s, and two 2s. Sorting them in-place plac 0s first, then all 1s, then all 2s.</p>
 </div>
 
 <p><strong class="example">Example 2:</strong></p>
@@ -26,7 +26,7 @@
 
 <p><strong>Explanation:</strong></p>
 
-<p>The array has one each of 0, 1, and 2, arranged in-place in the order 0, 1, 2.</p>
+<p>The array has one each of 0, 1, and 2, arrangeplace in the order 0, 1, 2.</p>
 </div>
 
 <p>&nbsp;</p>
