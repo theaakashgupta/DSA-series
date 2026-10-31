@@ -22,7 +22,7 @@
 
 <pre>
 <strong>Input:</strong> candidates = [2,5,2,1,2], target = 5
-<strong>Output:</strong> 
+<strong>Output:</stro
 [
 [1,2,2],
 [5]
