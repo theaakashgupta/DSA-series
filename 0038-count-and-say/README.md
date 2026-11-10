@@ -1,7 +1,7 @@
 <h2><a href="https://leetcode.com/problems/count-and-say">38. Count and Say</a></h2><h3>Medium</h3><hr><p>The <stronount-and-say</strong> sequence is arings defined by the recursive formula:</p>
 
 <ul>
-	<li><code>countAndSay(1) = &quot;1&quot;</code></li>
+	<li><code>countAndSay(1) &quot;1&quot;</code></li>
 	<li><code>countAndSay(n)</code> is the runf <code>countAndSay(n - 1)</code>.</li>
 </ul>
 
