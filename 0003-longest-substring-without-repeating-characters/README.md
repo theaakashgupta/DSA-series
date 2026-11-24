@@ -1,4 +1,4 @@
-hi<h2><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters">3. Longest Substring Without Rating nnbh a string <code>s</code>, find the length of the <strong>longest</strong> <span data-keyword="substring-nonempty"><strong>substring</strong></span> without date characters.</p>
+hi<h2><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters">3. Longest Substring Without ting nnbh a string <code>s</code>, find the length of the <strong>longest</strong> <span data-keyword="substring-nonempty"><strong>substring</strong></span> without date characters.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
